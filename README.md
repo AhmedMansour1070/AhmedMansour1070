@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine/deep learning , data science
 - 🌱 I’m currently learning oop, c++, python, data analysis
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: on my email ahmedhany1070@gmail.com
+- 📫 How to reach me: on my email ahmedh.mansourr@gmail.com
 
 <!---
 AhmedMansour1070/AhmedMansour1070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
